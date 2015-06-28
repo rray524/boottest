@@ -1,4 +1,12 @@
-@font-face {
+
+ 
+body {
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+
+ @font-face {
 	font-family: "DiavloMedium";
 	src: url(Diavlo_MEDIUM.otf) format("truetype");
 }
